@@ -1,7 +1,6 @@
 ---
 name: hello-world
 description: A simple skill that responds with "Hello, World!" when invoked.
-version: 1.0.0
 ---
 # Hello World Skill
 
