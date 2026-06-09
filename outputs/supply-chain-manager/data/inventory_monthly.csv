@@ -1,0 +1,326 @@
+snapshot_month,month_end_date,month_type,state,warehouse,sku,brand,brand_family,inventory_units,inventory_value_usd,seasonality_index,outlier_flag,trend_signal
+2025-06,2025-06-30,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1576,16075.20,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1665,16983.00,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1620,16524.00,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1465,14943.00,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1363,13902.60,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1314,13402.80,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1581,16126.20,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1186,12097.20,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1246,12709.20,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1443,14718.60,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1551,15820.20,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1659,16921.80,1.12,N,Recent trend
+2026-06,2026-06-30,Current,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,1235,12597.00,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,403,4110.60,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,288,2937.60,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,50,510.00,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,71,724.20,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,CA,LA-01,SKU-1001,NorthPeak,Craft Sodas,25,255.00,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1140,11799.00,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1202,12440.70,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1171,12119.85,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1063,11002.05,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,992,10267.20,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,958,9915.30,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1143,11830.05,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,869,8994.15,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,911,9428.85,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1048,10846.80,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1123,11623.05,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,1198,12399.30,1.12,N,Recent trend
+2026-06,2026-06-30,Current,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,758,7845.30,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,180,1863.00,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,101,1045.35,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,43,445.05,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,57,589.95,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,WA,SEA-01,SKU-1001,NorthPeak,Craft Sodas,25,258.75,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1720,18576.00,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1812,19569.60,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1765,19062.00,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1605,17334.00,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1499,16189.20,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1448,15638.40,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1724,18619.20,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1317,14223.60,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1378,14882.40,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1582,17085.60,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,1694,18295.20,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,2388,25790.40,1.12,Y,Promo spike depleted inventory faster than normal
+2026-06,2026-06-30,Current,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,980,10584.00,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,120,1296.00,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,51,550.80,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,73,788.40,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,NY,NYC-01,SKU-1001,NorthPeak,Craft Sodas,25,270.00,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1414,13927.90,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1486,14637.10,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1449,14272.65,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1324,13041.40,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1241,12223.85,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1201,11829.85,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1417,13957.45,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1098,10815.30,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1146,11288.10,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1306,12864.10,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1393,13721.05,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1481,14587.85,1.12,N,Recent trend
+2026-06,2026-06-30,Current,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,1002,9869.70,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,327,3220.95,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,TX,DAL-01,SKU-1002,NorthPeak,Craft Sodas,25,246.25,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1104,11095.20,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1167,11728.35,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1135,11406.75,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1026,10311.30,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,955,9597.75,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,921,9256.05,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1107,11125.35,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,831,8351.55,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,873,8773.65,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1011,10160.55,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1087,10924.35,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,1163,11688.15,1.12,N,Recent trend
+2026-06,2026-06-30,Current,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,765,7688.25,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,182,1829.10,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,FL,MIA-01,SKU-1002,NorthPeak,Craft Sodas,25,251.25,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1354,18617.50,1.18,N,Summer seasonal build
+2025-07,2025-07-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1428,19635.00,1.24,N,Summer seasonal build
+2025-08,2025-08-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1390,19112.50,1.20,N,Summer seasonal build
+2025-09,2025-09-30,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1103,15166.25,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1029,14148.75,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,994,13667.50,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1186,16307.50,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,902,12402.50,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,945,12993.75,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1087,14946.25,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1165,16018.75,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,CA,LA-01,SKU-2001,ClearSpring,Functional Water,1243,17091.25,1.12,N,Recent trend
+2026-06,2026-06-30,Current,CA,LA-01,SKU-2001,ClearSpring,Functional Water,743,10216.25,1.18,N,Summer seasonal build
+2026-07,2026-07-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,699,9611.25,1.24,N,Summer seasonal build
+2026-08,2026-08-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,48,660.00,1.20,N,Summer seasonal build
+2026-09,2026-09-30,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,144,1980.00,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,199,2736.25,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,CA,LA-01,SKU-2001,ClearSpring,Functional Water,25,343.75,1.18,N,Summer seasonal build
+2025-06,2025-06-30,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,1066,13964.60,1.18,N,Summer seasonal build
+2025-07,2025-07-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,1121,14685.10,1.24,N,Summer seasonal build
+2025-08,2025-08-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,1093,14318.30,1.20,N,Summer seasonal build
+2025-09,2025-09-30,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,879,11514.90,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,824,10794.40,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,797,10440.70,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,941,12327.10,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,729,9549.90,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,761,9969.10,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,867,11357.70,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,925,12117.50,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,984,12890.40,1.12,N,Recent trend
+2026-06,2026-06-30,Current,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,721,9445.10,1.18,N,Summer seasonal build
+2026-07,2026-07-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,688,9012.80,1.24,N,Summer seasonal build
+2026-08,2026-08-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,203,2659.30,1.20,N,Summer seasonal build
+2026-09,2026-09-30,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,113,1480.30,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,155,2030.50,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,IL,CHI-01,SKU-2001,ClearSpring,Functional Water,25,327.50,1.18,N,Summer seasonal build
+2025-06,2025-06-30,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1211,17196.20,1.18,N,Summer seasonal build
+2025-07,2025-07-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1272,18062.40,1.24,N,Summer seasonal build
+2025-08,2025-08-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1241,17622.20,1.20,N,Summer seasonal build
+2025-09,2025-09-30,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1004,14256.80,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,944,13404.80,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,915,12993.00,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1073,15236.60,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,839,11913.80,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,874,12410.80,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,991,14072.20,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1055,14981.00,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,1120,15904.00,1.12,N,Recent trend
+2026-06,2026-06-30,Current,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,703,9982.60,1.18,N,Summer seasonal build
+2026-07,2026-07-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,667,9471.40,1.24,N,Summer seasonal build
+2026-08,2026-08-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,132,1874.40,1.20,N,Summer seasonal build
+2026-09,2026-09-30,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,122,1732.40,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,168,2385.60,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,NY,NYC-01,SKU-2002,ClearSpring,Functional Water,25,355.00,1.18,N,Summer seasonal build
+2025-06,2025-06-30,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1687,20075.30,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1783,21217.70,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1734,20634.60,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1568,18659.20,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1459,17362.10,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1406,16731.40,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1692,20134.80,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1270,15113.00,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1334,15874.60,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1545,18385.50,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1660,19754.00,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1776,21134.40,1.12,N,Recent trend
+2026-06,2026-06-30,Current,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,1015,12078.50,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,124,1475.60,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,TX,DAL-01,SKU-3001,FieldHouse,Protein Snacks,25,297.50,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1395,16809.75,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1471,17725.55,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1432,17255.60,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1299,15652.95,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1212,14604.60,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1170,14098.50,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1398,16845.90,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1061,12785.05,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1112,13399.60,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1281,15436.05,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1373,16544.65,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1466,17665.30,1.12,N,Recent trend
+2026-06,2026-06-30,Current,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,1057,12736.85,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,344,4145.20,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,IL,CHI-01,SKU-3001,FieldHouse,Protein Snacks,25,301.25,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,942,10738.80,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,990,11286.00,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,965,11001.00,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,882,10054.80,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,826,9416.40,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,800,9120.00,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,944,10761.60,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,731,8333.40,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,763,8698.20,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,870,9918.00,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,928,10579.20,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,987,11251.80,1.12,N,Recent trend
+2026-06,2026-06-30,Current,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,590,6726.00,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,140,1596.00,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,WA,SEA-01,SKU-3002,FieldHouse,Protein Snacks,25,285.00,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1221,19291.80,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1283,20271.40,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1251,19765.80,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1145,18091.00,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1074,16969.20,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1040,16432.00,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1224,19339.20,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,953,15057.40,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,994,15705.20,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1130,17854.00,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1204,19023.20,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,1279,20208.20,1.12,N,Recent trend
+2026-06,2026-06-30,Current,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,770,12166.00,1.18,Y,Supplier delay caused unusually low stock
+2026-07,2026-07-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,196,3096.80,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,117,1848.60,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,43,679.40,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,57,900.60,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,NY,NYC-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,395.00,1.18,N,Forward projected inventory
+2025-06,2025-06-30,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,846,12986.10,1.18,N,Historical baseline
+2025-07,2025-07-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,894,13722.90,1.24,N,Historical baseline
+2025-08,2025-08-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,869,13339.15,1.20,N,Historical baseline
+2025-09,2025-09-30,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,786,12065.10,1.08,N,Historical baseline
+2025-10,2025-10-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,731,11220.85,1.00,N,Historical baseline
+2025-11,2025-11-30,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,705,10821.75,0.96,N,Historical baseline
+2025-12,2025-12-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,848,13016.80,1.15,N,Historical baseline
+2026-01,2026-01-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,637,9777.95,0.86,N,Historical baseline
+2026-02,2026-02-28,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,669,10269.15,0.90,N,Historical baseline
+2026-03,2026-03-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,774,11880.90,0.98,N,Recent trend
+2026-04,2026-04-30,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,832,12771.20,1.05,N,Recent trend
+2026-05,2026-05-31,Historical,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,890,13661.50,1.12,N,Recent trend
+2026-06,2026-06-30,Current,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,663,10177.05,1.18,N,Recent trend
+2026-07,2026-07-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,216,3315.60,1.24,N,Forward projected inventory
+2026-08,2026-08-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,154,2363.90,1.20,N,Forward projected inventory
+2026-09,2026-09-30,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.08,N,Forward projected inventory
+2026-10,2026-10-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.00,N,Forward projected inventory
+2026-11,2026-11-30,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,39,598.65,0.96,N,Forward projected inventory
+2026-12,2026-12-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.15,N,Forward projected inventory
+2027-01,2027-01-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,0.86,N,Forward projected inventory
+2027-02,2027-02-28,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,50,767.50,0.90,N,Forward projected inventory
+2027-03,2027-03-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,0.98,N,Forward projected inventory
+2027-04,2027-04-30,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.05,N,Forward projected inventory
+2027-05,2027-05-31,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.12,N,Forward projected inventory
+2027-06,2027-06-30,Forward,FL,MIA-01,SKU-4001,UrbanRoast,Ready-to-Drink Coffee,25,383.75,1.18,N,Forward projected inventory

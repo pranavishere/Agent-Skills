@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inventory SKU Risk"
+  short_description: "Analyze SKU-level inventory risk against depletion forecasts."
+  default_prompt: "Use this skill to analyze SKU inventory trends and out-of-stock risk."

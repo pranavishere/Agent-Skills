@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regional Inventory Balance"
+  short_description: "Analyze inventory coverage and distribution by region."
+  default_prompt: "Use this skill to analyze region-wise inventory trends and stock coverage."

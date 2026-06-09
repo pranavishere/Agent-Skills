@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supply Chain Optimization Insights"
+  short_description: "Find broader supply-chain improvement opportunities beyond standard inventory views."
+  default_prompt: "Use this skill to identify additional supply-chain optimization opportunities."
